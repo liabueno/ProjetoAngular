@@ -102,5 +102,12 @@ export class HomePage {
 
 }
 
+
+
+
+
+
+
+
 // obs:  não precisa colocar o zero ao dividir numeros inteiros por decimais, onde o decimal começa com 0 como em: 2 / .8
 // deixei o zero subentendido nesse caso
